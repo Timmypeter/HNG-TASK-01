@@ -19,14 +19,15 @@ body {
 }
 
 .container {
-  background-color: #a4f4dd;
+  background-color: #fff
   height: 100vh;
 }
 
 .profile {
   box-shadow: 0 2.4rem 3.2rem rgba(0, 0, 0, 0.15);
   max-width: 65rem;
-  margin: 0 auto;
+  margin: 50px auto;
+
   padding: 0 20px;
   background-repeat: 9px;
   border-radius: 25px;
@@ -43,7 +44,7 @@ header {
 
 header img {
   border-radius: 25px;
-  max-width: 40rem;
+  max-width: 20rem;
   overflow: hidden;
   margin-top: 20px;
 }
